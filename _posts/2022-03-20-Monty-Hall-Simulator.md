@@ -1,3 +1,11 @@
+---
+layout: post
+title: Monty Hall Simulator
+image: "/posts/coffee_python.jpg"
+tags: [Python, Simulation, Numpy]
+---
+
+
 # Monte Hall Problem Simulator
 
 ## Introduction
