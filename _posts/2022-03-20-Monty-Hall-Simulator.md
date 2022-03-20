@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monty Hall Simulator
-image: "/posts/coffee_python.jpg"
+image: "/posts/Binary_Code-istockphoto-122204403-612x612.jpg"
 tags: [Python, Simulation, Numpy]
 ---
 
