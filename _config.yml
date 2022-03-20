@@ -22,7 +22,7 @@ avatar_image: /img/LinkedIn Profile Image.jpeg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/seth-fleet-a15b4019/" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/seth-fleet-a15b4019/" # "https://linkedln.com/in/seth-fleet-a15b4019/" # Add your linkedln handle
 github: "https://github.com/sethfleet"  # Add your github handle
 
 paginate: 6
